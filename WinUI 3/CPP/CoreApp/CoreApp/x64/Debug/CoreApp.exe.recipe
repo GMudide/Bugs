@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\MyWorkspace\Dev\OpenSource\Bugs\WinUI 3\CPP\CoreApp\x64\Debug\CalcWRC\CalcWRC.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\MyWorkspace\Dev\OpenSource\Bugs\WinUI 3\CPP\CoreApp\x64\Debug\CoreApp\CoreApp.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\MyWorkspace\Dev\OpenSource\Bugs\WinUI 3\CPP\CoreApp\CoreApp\Assets\LockScreenLogo.scale-200.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\MyWorkspace\Dev\OpenSource\Bugs\WinUI 3\CPP\CoreApp\CoreApp\Assets\SplashScreen.scale-200.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\MyWorkspace\Dev\OpenSource\Bugs\WinUI 3\CPP\CoreApp\CoreApp\Assets\Square150x150Logo.scale-200.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\MyWorkspace\Dev\OpenSource\Bugs\WinUI 3\CPP\CoreApp\CoreApp\Assets\Square44x44Logo.scale-200.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\MyWorkspace\Dev\OpenSource\Bugs\WinUI 3\CPP\CoreApp\CoreApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\MyWorkspace\Dev\OpenSource\Bugs\WinUI 3\CPP\CoreApp\CoreApp\Assets\StoreLogo.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\MyWorkspace\Dev\OpenSource\Bugs\WinUI 3\CPP\CoreApp\CoreApp\Assets\Wide310x150Logo.scale-200.png</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

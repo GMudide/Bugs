@@ -1,0 +1,13 @@
+// Copyright (c) Microsoft Corporation and Contributors.
+// Licensed under the MIT License.
+
+namespace CalcWRC
+{
+    [default_interface]
+    runtimeclass Calc
+    {
+        Calc();
+        void AdjustTemperature(Single deltaFahrenheit);
+        Int32 MyProperty;
+    }
+}

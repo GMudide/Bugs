@@ -1,0 +1,12 @@
+// Copyright (c) Microsoft Corporation and Contributors.
+// Licensed under the MIT License.
+
+namespace CalcWRC
+{
+    [default_interface]
+    runtimeclass GuidePage : Microsoft.UI.Xaml.Controls.Page
+    {
+        GuidePage();
+        Int32 MyProperty;
+    }
+}
